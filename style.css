@@ -1,0 +1,61 @@
+body {
+    color: #000000;
+    background: #FFAADD;
+    background: linear-gradient(90deg, rgba(255, 170, 221, 1) 0%, rgba(255, 170, 0, 1) 150%);
+    font-family: verdana;
+}
+p {
+    font-size: 11px;
+}
+a {
+    color: #AA00AA;
+}
+.expandElement {
+    background-color: #00000022;
+    border-radius: 5px;
+    padding: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    max-width: fit-content;
+}
+.box {
+    background-color: #00000022;
+    border-radius: 5px;
+    padding: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    max-width: fit-content;
+}
+.readmore {
+    font-size: smaller;
+    font-style: italic;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    max-width: fit-content;
+    border-radius: 2px;
+    padding: 2px;
+}
+.readmore:hover {
+    transform: scale(1.1)
+}
+
+.bunnygirl {
+    background: #FFFFFF;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(0, 170, 85, 1) 100%);
+}
+.witchgirl {
+    background: #000000;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 1) 0%, rgba(170, 85, 204, 1) 100%);
+    color: #FFFFFF;
+}
+.enby {
+    background: #AACCFF;
+    background: linear-gradient(135deg, rgba(212, 230, 255, 1) 0%, rgba(204, 170, 255, 1) 100%);
+}
+.woman {
+    background: #FFAA00;
+    background: linear-gradient(135deg, rgba(255, 170, 0, 1) 0%, rgba(170, 0, 0, 1) 100%);
+}
