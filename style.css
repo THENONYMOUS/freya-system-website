@@ -1,7 +1,7 @@
 body {
     color: #000000;
     background: #FFAADD;
-    background: linear-gradient(90deg, rgba(255, 170, 221, 1) 0%, rgba(255, 170, 0, 1) 150%);
+    background: linear-gradient(90deg, rgba(255, 170, 221, 1) 0%, rgba(255, 170, 0, 1) 200%);
     font-family: verdana;
 }
 p {
@@ -9,9 +9,10 @@ p {
 }
 a {
     color: #AA00AA;
+    font-size: 11px !important;
 }
 .expandElement {
-    background-color: #00000022;
+    background-color: #33002222;
     border-radius: 5px;
     padding: 5px;
     border-style: solid;
@@ -20,7 +21,7 @@ a {
     max-width: fit-content;
 }
 .box {
-    background-color: #00000022;
+    background-color: #33002222;
     border-radius: 5px;
     padding: 5px;
     border-style: solid;
