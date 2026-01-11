@@ -1,7 +1,6 @@
 body {
     color: #000000;
-    background: #FFAADD;
-    background: linear-gradient(90deg, rgba(255, 170, 221, 1) 0%, rgba(255, 170, 0, 1) 200%);
+    background: linear-gradient(135deg, rgba(255, 170, 221, 1) 0%, rgba(255, 170, 0, 1) 300%);
     font-family: verdana;
 }
 p {
@@ -43,20 +42,19 @@ a {
     transform: scale(1.1)
 }
 
-.bunnygirl {
-    background: #FFFFFF;
-    background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(0, 170, 85, 1) 100%);
+.mary {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(0, 170, 85, 1) 100%) !important;
 }
-.witchgirl {
-    background: #000000;
-    background: linear-gradient(135deg, rgba(0, 0, 0, 1) 0%, rgba(170, 85, 204, 1) 100%);
+.freya {
+    background: linear-gradient(135deg, rgba(0, 0, 0, 1) 0%, rgba(170, 85, 204, 1) 100%) !important;
     color: #FFFFFF;
 }
-.enby {
-    background: #AACCFF;
-    background: linear-gradient(135deg, rgba(212, 230, 255, 1) 0%, rgba(204, 170, 255, 1) 100%);
+.phoebe {
+    background: linear-gradient(135deg, rgba(212, 230, 255, 1) 0%, rgba(204, 170, 255, 1) 100%) !important;
 }
-.woman {
-    background: #FFAA00;
-    background: linear-gradient(135deg, rgba(255, 170, 0, 1) 0%, rgba(170, 0, 0, 1) 100%);
+.ganymede {
+    background: linear-gradient(135deg, rgb(85, 200, 0) 0%, rgb(100, 32, 200) 100%) !important;
+}
+.jasmine {
+    background: linear-gradient(135deg, rgba(255, 170, 0, 1) 0%, rgba(170, 0, 0, 1) 100%) !important;
 }
